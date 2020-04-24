@@ -1,13 +1,6 @@
 {
   "books": [
-    {
-      "title": "நீதியைத் தேடி",
-      "bookid": "73d7fe2e-db7c-4a0d-8bd3-e300c014a52f",
-      "author": "வாரன்ட்   பாலா ",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2015/07/law-212x300.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%af%80%e0%ae%a4%e0%ae%bf%e0%ae%af%e0%af%88%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%bf-epub/",
-      "category": "கட்டுரைகள்"
-    },
+
     {
       "title": "ஒரு வாசகம் – திருமுறைக் கட்டுரைகள்",
       "bookid": "c41a0ae4-cbba-4c2d-b0fc-8b305f3382f3",
