@@ -1,30 +1,6 @@
 {
   "books" : [
     {
-      "title": "ஈழம் – வந்தார்கள் வென்றார்கள்",
-      "bookid": "907680A0-880D-4F27-9DDC-496FE659A2EC",
-      "author": "ஜோதிஜி திருப்பூர்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/12/ezham-book-cover-280x390.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%88%e0%ae%b4%e0%ae%ae%e0%af%8d-%e0%ae%b5%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%b5%e0%af%86%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%ae%be%e0%ae%b0-3/",
-      "category": "வரலாறு"
-    },
-    {
-      "title": "சில புத்தகங்கள்…",
-      "bookid": "8DAA651D-2FCB-444F-8DAE-A2776A6B9F27",
-      "author": "சுப தமிழினியன்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/12/books-280x365.png",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%bf%e0%ae%b2-%e0%ae%aa%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
-      "category": "கட்டுரைகள்"
-    },
-    {
-      "title": "புலப்படா உலகில் புலப்பட்ட கீற்றுகள்",
-      "bookid": "FA0E5379-CAC2-4C80-9152-C921CB912D4A",
-      "author": "பூ.கொ.சரவணன்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/12/saravanan-book-cover-280x385.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%81%e0%ae%b2%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%be-%e0%ae%89%e0%ae%b2%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%aa%e0%af%81%e0%ae%b2%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d/",
-      "category": "வரலாறு"
-    },
-    {
       "title": "பள்ளியினூடே ஒரு பயணம்",
       "bookid": "74D090E7-7BEA-4D52-B621-8E78320F7DBE",
       "author": "நிர்மலா ராகவன், மலேசியா",
@@ -55,46 +31,6 @@
       "image": "https://freetamilebooks.com/wp-content/uploads/2013/11/vinaiookki-short-stories-217x300.jpg",
       "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%af%88%e0%ae%af%e0%af%82%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%bf-%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%af%81%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
       "category": "சிறுகதைகள்"
-    },
-    {
-      "title": "வினவு அறிவியல் பக்கங்கள்",
-      "bookid": "D920B988-4203-438F-B0D5-5EEB0F8BA0ED",
-      "author": "வினவு குழு",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/09/vinavu-science1-280x385.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%ae%b5%e0%af%81-%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%aa%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3-3/",
-      "category": "அறிவியல்"
-    },
-    {
-      "title": "தத்துவக் கதைகள்",
-      "bookid": "3A7F0A37-8812-4A1B-B7B3-8F76539026B8",
-      "author": "திருமூர்த்தி வாசுதேவன்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/08/temple1-280x361.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%b5%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
-      "category": "சிறுகதைகள்"
-    },
-    {
-      "title": "மானிட்டர் உலகம்",
-      "bookid": "4714BC66-B00F-443F-9CE9-4CE9BF10A476",
-      "author": "நீச்சல்காரன்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/08/Monitor_Ulagam-280x323.png",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%be%e0%ae%a9%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%b0%e0%af%8d-%e0%ae%89%e0%ae%b2%e0%ae%95%e0%ae%ae%e0%af%8d-epub/",
-      "category": "கணினி அறிவியல்"
-    },
-    {
-      "title": "சீதாயணம்",
-      "bookid": "EFB2CCED-86A0-4A80-A63B-C20FF11C431B",
-      "author": "சி. ஜெயபாரதன்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/08/Seethayanam-cover-page-Small-227x300.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%af%80%e0%ae%a4%e0%ae%be%e0%ae%af%e0%ae%a3%e0%ae%ae%e0%af%8d-2/",
-      "category": "இலக்கியம்"
-    },
-    {
-      "title": "தமிழ் இன்று",
-      "bookid": "E87A1AAA-791A-4D5D-80F3-84A6AE68DE17",
-      "author": "அ. இரவிசங்கர்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2013/07/768px-Valluvar_Kottam_Edit1-280x373.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d-%e0%ae%87%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%81/",
-      "category": "கட்டுரைகள்"
     }
   ]
 }
